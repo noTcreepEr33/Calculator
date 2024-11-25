@@ -1,0 +1,14 @@
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfoInputs.cache
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfo.cs
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/bin/Debug/net9.0/Calculator
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/bin/Debug/net9.0/Calculator.deps.json
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/bin/Debug/net9.0/Calculator.runtimeconfig.json
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/bin/Debug/net9.0/Calculator.dll
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/bin/Debug/net9.0/Calculator.pdb
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/Calculator.dll
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/refint/Calculator.dll
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/Calculator.pdb
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
+/Users/ramdarshan/Documents/VS code/c language/Calculator/Calculator/obj/Debug/net9.0/ref/Calculator.dll
